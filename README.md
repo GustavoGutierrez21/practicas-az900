@@ -2,5 +2,5 @@
 
 Practicas desarrolladas con una cuenta estudiantil de Azure.
 
-[Crear una pagina web](paginas\Crear_pagina.md) 
+[Crear una pagina web](https://github.com/GustavoGutierrez21/practicas-az900/blob/main/paginas/Crear_pagina.md) 
 
