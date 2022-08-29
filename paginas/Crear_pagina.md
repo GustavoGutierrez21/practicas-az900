@@ -1,10 +1,8 @@
 # Crear una pagina Web en Wordpress
 **Objetivo:** Crear una pagina web en wordpress, pero administrado desde el portal de Azure con App Service.
 
--------------------------
-
 ## Requisitos:
-- Tener una cuenta en Azure.
+- Tener una cuenta en Azure con saldo.
 
 ---------------------------
 
