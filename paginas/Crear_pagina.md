@@ -12,6 +12,8 @@
 
 1. Entrar al [portal de Azure](https://portal.azure.com/) e iniciar sesión.
 
-![ ](https://github.com/GustavoGutierrez21/practicas-az900/blob/main/imagenes/1_crear_pagina_web/inicio_sesion.png)
+![](https://github.com/GustavoGutierrez21/practicas-az900/blob/main/imagenes/1_crear_pagina_web/inicio_sesion.png) ![](../imagenes\1_crear_pagina_web\1.png)
 
 2. En el buscador de Azure escribir “Marketplace”.
+
+![](../imagenes\1_crear_pagina_web\2.png)
